@@ -1,0 +1,24 @@
+{
+    "overall_score": 85,
+    "keyword_matching": [
+        "Python",
+        "Flask",
+        "React.js",
+        "OpenAI"
+    ],
+    "missing_keywords": [
+        "SQL",
+        "Deployment experience"
+    ],
+    "suggestions": [
+        "Add projects showcasing SQL experience (if any)",
+        "Quantify project accomplishments with metrics (e.g., improved efficiency by X%)",
+        "Highlight experience with deployment processes (if any)",
+        "Stronger emphasis on experience, even if limited, to address 'Aspiring' status"
+    ],
+    "important_keys": [
+        "experience",
+        "projects",
+        "skills"
+    ]
+}
