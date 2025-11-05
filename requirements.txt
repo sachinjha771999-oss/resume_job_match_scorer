@@ -7,4 +7,6 @@ spacy
 nltk
 google-generativeai
 python-dotenv
-docx2txt  # Add this line
+docx2txt
+fastapi
+uvicorn[standard]
